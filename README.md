@@ -1,7 +1,7 @@
 # CampHub
 <br>
 I developed a project called 'Camphub,' a dynamic web application that allows users to explore campgrounds across the country. The platform provides detailed information about each campground, including its location displayed on a map, user ratings, reviews, and images that highlight the site.
-<br>
+
 The application also includes a feature for campground owners, enabling them to create and manage their campground listings. Owners can add new campgrounds by providing details such as the name, location, description, and images. Additionally, they have the ability to edit or delete campgrounds they’ve previously added.
 
 For the backend, I utilized the MERN stack, which includes MongoDB for storing campground data, user information, and reviews, Express.js and Node.js for building a RESTful API to handle requests and perform server-side operations.
