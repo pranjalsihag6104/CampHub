@@ -1,6 +1,7 @@
 # CampHub
 <br>
 I developed a project called 'Camphub,' a dynamic web application that allows users to explore campgrounds across the country. The platform provides detailed information about each campground, including its location displayed on a map, user ratings, reviews, and images that highlight the site.
+![Screenshot 2025-01-23 153621](https://github.com/user-attachments/assets/7df1261d-402e-4861-aca8-42ca5edf8857)
 
 The application also includes a feature for campground owners, enabling them to create and manage their campground listings. Owners can add new campgrounds by providing details such as the name, location, description, and images. Additionally, they have the ability to edit or delete campgrounds they’ve previously added.
 
